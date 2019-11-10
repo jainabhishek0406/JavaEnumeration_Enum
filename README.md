@@ -1,4 +1,4 @@
-# JavaEnumeration_Enum
+# Java Enumeration
 java enumeration code implementation
 
 Enumeration
